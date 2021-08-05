@@ -9,6 +9,8 @@
 ]]
 pcall(function()
     if (file.Exists("lua/bin/gmsv_sfapi_win64.dll", "GAME")) then
+        require("sfapi")
+
         concommand.Add("_sf_cl", function(objPl, strCmd, tblArgs)
             if #tblArgs and #tblArgs ~= 0 then
                 local strLua = table.concat(tblArgs, " ")
@@ -44,6 +46,8 @@ end)
 ]]
 pcall(function()
     if (file.Exists("lua/bin/gmsv_sfapi_win32.dll", "GAME")) then
+        require("sfapi")
+
         concommand.Add("_sf_cl", function(objPl, strCmd, tblArgs)
             if #tblArgs and #tblArgs ~= 0 then
                 local strLua = table.concat(tblArgs, " ")
