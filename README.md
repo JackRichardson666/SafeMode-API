@@ -14,8 +14,8 @@
 
 👤 **Jack Richardson**
 
-* Website: https://evenhub.cf
-* Discord: https://discord.gg/qwBgtu9DGB
+* Website: https://evenhub.cf (disabled)
+* Discord: https://discord.gg/nThzkpHgh3
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
 
 ## 🤝 Contributing
