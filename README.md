@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> SafeMode API-utility for Garry's mod
+> SafeMode API - utility for Garry's mod
 
 ### 🏠 [Homepage]()
 
