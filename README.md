@@ -17,8 +17,8 @@
 * Website: https://evenhub.cf (disabled)
 * Discord: https://discord.gg/nThzkpHgh3
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
-* VT(x32): https://www.virustotal.com/gui/file/eaea2541959bb112c1901ed5702e254966f8bb4c0970b946a21a46bc50325026/detection
-* VT(x64): https://www.virustotal.com/gui/file/2edb714bba6716dbcc8365d1ad4ac02f707cb339acf86713d7aaf45a9d45375c/detection
+* [vt(x32)](https://www.virustotal.com/gui/file/eaea2541959bb112c1901ed5702e254966f8bb4c0970b946a21a46bc50325026/detection)
+* [vt(x64)](https://www.virustotal.com/gui/file/2edb714bba6716dbcc8365d1ad4ac02f707cb339acf86713d7aaf45a9d45375c/detection)
 
 ## 💎 API
 
