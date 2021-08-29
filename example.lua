@@ -28,7 +28,7 @@ pcall(function()
             print("Must contain code to run code")
         end)
 
-        concommand.Add("_sf_menu", function(objPl, strCmd, tblArgs)
+        concommand.Add("_sf_mn", function(objPl, strCmd, tblArgs)
             if #tblArgs and #tblArgs ~= 0 then
                 local strLua = table.concat(tblArgs, " ")
                 ExecuteOnMenu(strLua)
@@ -65,7 +65,7 @@ pcall(function()
             print("Must contain code to run code")
         end)
 
-        concommand.Add("_sf_menu", function(objPl, strCmd, tblArgs)
+        concommand.Add("_sf_mn", function(objPl, strCmd, tblArgs)
             if #tblArgs and #tblArgs ~= 0 then
                 local strLua = table.concat(tblArgs, " ")
                 ExecuteOnMenu(strLua)
