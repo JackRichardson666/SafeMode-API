@@ -14,7 +14,7 @@
 
 👤 **Jack Richardson**
 
-* Website: https://evenhub.cf (disabled)
+* Website: https://bdsmterenty.tk/
 * Discord: https://discord.gg/nThzkpHgh3
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
 * [vt(x32)](https://www.virustotal.com/gui/file/eaea2541959bb112c1901ed5702e254966f8bb4c0970b946a21a46bc50325026/detection)
