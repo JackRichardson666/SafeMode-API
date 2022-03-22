@@ -17,14 +17,16 @@
 * Website: https://bdsmterenty.tk/
 * Discord: https://discord.gg/nThzkpHgh3
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
-* [vt(x32)](https://www.virustotal.com/gui/file/eaea2541959bb112c1901ed5702e254966f8bb4c0970b946a21a46bc50325026/detection)
-* [vt(x64)](https://www.virustotal.com/gui/file/2edb714bba6716dbcc8365d1ad4ac02f707cb339acf86713d7aaf45a9d45375c/detection)
 
 ## 💎 API
 
 ExecuteOnClient(code) - используется для запуска lua кода на client state  / used to run lua code on client state
 ExecuteOnMenu(code) - используется для запуска lua кода на menu state  / used to run lua code on menu state
 IsClientLua() - используется для проверки возможности запуска lua кода на client state / it is used to check the possibility of running lua code on the client state [возвращает true или false / returns true or false]
+
+## 🔒 VirusTotal
+* [vt(x32)](https://www.virustotal.com/gui/file/eaea2541959bb112c1901ed5702e254966f8bb4c0970b946a21a46bc50325026/detection)
+* [vt(x64)](https://www.virustotal.com/gui/file/2edb714bba6716dbcc8365d1ad4ac02f707cb339acf86713d7aaf45a9d45375c/detection)
 
 ## 🤝 Contributing
 
